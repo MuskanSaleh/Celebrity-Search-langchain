@@ -5,4 +5,5 @@ python-dotenv
 openai
 langchain
 streamlit
+langchain.chains
 
